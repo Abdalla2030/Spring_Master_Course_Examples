@@ -1,0 +1,9 @@
+com\eazyschool\webapp\config\WebCong.class
+com\eazyschool\webapp\EazyschoolApplication.class
+com\eazyschool\webapp\model\Contact.class
+com\eazyschool\webapp\model\Holiday$Type.class
+com\eazyschool\webapp\controller\HolidaysController.class
+com\eazyschool\webapp\service\ContactService.class
+com\eazyschool\webapp\controller\ContactController.class
+com\eazyschool\webapp\model\Holiday.class
+com\eazyschool\webapp\controller\HomeController.class
